@@ -2,7 +2,7 @@
 const DashboardLayout = ({children}) => {
     return (
         <main className="flex">
-            <Sidebar/>
+            {/* <SideBar/>f */}
             {children}
         </main>
     );

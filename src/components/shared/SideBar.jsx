@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
-const Sidebar = () => {
+const SideBar = () => {
     return (
         <div className='h-screen w-64 bg-gray-800 text-white '>
-            <h1 className='text-2xl font-bold mb-6'>My Sidebar</h1>
+            <h1 className='text-2xl font-bold mb-6'>My SideBar</h1>
             <nav className='space-y-4'>
                 <Link className='block px-4 py-2 rounded hover:bg-gray-500' href='/'>
                     Home
@@ -19,4 +19,4 @@ const Sidebar = () => {
     );
 };
 
-export default Sidebar;
+export default SideBar;
