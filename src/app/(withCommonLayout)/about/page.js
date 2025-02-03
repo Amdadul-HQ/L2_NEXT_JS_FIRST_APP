@@ -1,5 +1,11 @@
 import styles from './About.module.css'
 
+export const metadate = {
+    title:"About us",
+    description:"This is description"
+}
+
+
 const AboutPage = () => {
     return (
         <div>
