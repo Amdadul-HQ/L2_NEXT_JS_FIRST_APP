@@ -1,10 +1,10 @@
 import Navbar from "@/components/shared/Navbar";
 
-const CommonLayout = ({chindren}) => {
+const CommonLayout = ({children}) => {
     return (
         <div>
             <Navbar/>
-            {chindren}
+            {children}
         </div>
     );
 };
