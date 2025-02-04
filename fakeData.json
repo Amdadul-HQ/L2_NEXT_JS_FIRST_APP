@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Wireless Bluetooth Headphones",
+        "category": "Electronics",
+        "brand": "SoundX",
+        "price": 59.99,
+        "image": "https://example.com/images/product1.jpg"
+      },
+      {
+        "id": 2,
+        "productName": "Smartphone 13 Pro Max",
+        "category": "Electronics",
+        "brand": "TechnoMax",
+        "price": 999.99,
+        "image": "https://example.com/images/product2.jpg"
+      },
+      {
+        "id": 3,
+        "productName": "Leather Jacket",
+        "category": "Fashion",
+        "brand": "VogueWear",
+        "price": 129.99,
+        "image": "https://example.com/images/product3.jpg"
+      },
+      {
+        "id": 4,
+        "productName": "Gaming Laptop 15 inch",
+        "category": "Electronics",
+        "brand": "GamerPro",
+        "price": 1499.99,
+        "image": "https://example.com/images/product4.jpg"
+      },
+      {
+        "id": 5,
+        "productName": "Instant Pot Cooker",
+        "category": "Home & Kitchen",
+        "brand": "KitchenGenius",
+        "price": 89.99,
+        "image": "https://example.com/images/product5.jpg"
+      },
+      {
+        "id": 6,
+        "productName": "Sports Sneakers",
+        "category": "Footwear",
+        "brand": "StrideFast",
+        "price": 79.99,
+        "image": "https://example.com/images/product6.jpg"
+      },
+      {
+        "id": 7,
+        "productName": "Smart Watch 5",
+        "category": "Electronics",
+        "brand": "TimeTech",
+        "price": 199.99,
+        "image": "https://example.com/images/product7.jpg"
+      },
+      {
+        "id": 8,
+        "productName": "Portable Speaker",
+        "category": "Electronics",
+        "brand": "SoundWave",
+        "price": 49.99,
+        "image": "https://example.com/images/product8.jpg"
+      },
+      {
+        "id": 9,
+        "productName": "Outdoor Backpack",
+        "category": "Outdoor",
+        "brand": "TrailBlaze",
+        "price": 69.99,
+        "image": "https://example.com/images/product9.jpg"
+      },
+      {
+        "id": 10,
+        "productName": "Digital Camera 4K",
+        "category": "Electronics",
+        "brand": "PhotoPro",
+        "price": 599.99,
+        "image": "https://example.com/images/product10.jpg"
+      }
+    ]
+  }
+  
